@@ -1,5 +1,5 @@
 # Add-Taxis-Page
-[Demo of add driver web page](https://designer199.github.io/add-taxi/)
+[Demo of add driver web page](https://designer199.github.io/Add-Taxi-Details/)
 
 ## Dated : 5th Nov 2018
- - [ ] Add Taxi page is reponsive/mobile-first.
+- [x] Add Taxi page is reponsive/mobile-first.
